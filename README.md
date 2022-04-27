@@ -26,6 +26,6 @@
   
   </div>
   
- ![Snake animation](https://github.com/HigorRamos14/HigorRamos14/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://https://github.com/HigorRamos14/HigorRamos14/blob/main/.github/workflows/cobrinha.yml.svg)
 
   </div>
