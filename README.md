@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Higor Ramos👋
 
-- 🌱 Estudando Python, HTML e CSS
-- 📘 livros: Código limpo, Python Fluente e Engenharia de software moderna
+- Universitario na Universidade de Rio Verde em Engenharia de Software
+- 🌱 Estudando Python, HTML5, CSS3, Java
+- 📘 livros: Código limpo, Engenharia de software moderna
 
 <div align="center">
   <a href="https://github.com/HigorRamos14">
