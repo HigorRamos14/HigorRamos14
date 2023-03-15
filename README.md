@@ -3,6 +3,7 @@
 - Universitario na Universidade de Rio Verde em Engenharia de Software
 - 🌱 Estudando Python, HTML5, CSS3, Java
 - 📘 livros: Código limpo, Engenharia de software moderna
+- Técnico em Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/HigorRamos14">
