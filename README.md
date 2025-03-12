@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Higor Ramos👋
 
-- Universitario na Universidade de Rio Verde em Engenharia de Software
-- 🌱 Estudando Python, HTML5, CSS3, Java
-- 📘 livros: Código limpo, Engenharia de software moderna
+- Estudante da Alura
+- Front-End 
 - Técnico em Desenvolvimento de Sistemas
 
 <div align="center">
